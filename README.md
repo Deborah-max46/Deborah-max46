@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deborah Uwase  
 
-I’m an **tech-minded problem solver** passionate about building reliable software and improving how technology serves people.  
+I’m a **tech-minded problem solver** passionate about building reliable software and improving how technology serves people.  
 I explore various areas of tech — from **backend and frontend development** to **software Quality Assurance, security**, and **project management.**  
 Currently learning **Java, Data structures and algorithms, software security, and linux.**  
 I love collaborating on projects that combine creativity, logic, and real-world problem-solving.
