@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Deborah-max46
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Database with PL/SQL
-- 💞️ I’m looking to collaborate on Different projects
-- 📫 How to reach me: uwaseketsiad871@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Have fun on each step
+# 👋 Hi, I'm Deborah Uwase  
+
+I’m an **tech-minded problem solver** passionate about building reliable software and improving how technology serves people.  
+I explore various areas of tech — from **backend and frontend development** to **software Quality Assurance, security**, and **project management.**  
+Currently learning **Java, Data structures and algorithms, software security, and linux.**  
+I love collaborating on projects that combine creativity, logic, and real-world problem-solving.
+
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
+
+
 
 <!---
 Deborah-max46/Deborah-max46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
