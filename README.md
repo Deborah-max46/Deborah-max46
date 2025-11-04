@@ -23,11 +23,11 @@ I love collaborating on projects that combine creativity, logic, and real-world 
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [SQL Commands in Oracle Database](https://github.com/yourusername/SQL-Commands-in-Oracle-Database) | A collection of SQL commands demonstrating strong understanding of data retrieval, manipulation, and constraints within Oracle Database. | SQL, Oracle Database |
-| [Database Creation & Deletion (EOM)](https://github.com/yourusername/Database-creation-Deletion-EOM) | Explores Oracle multitenant architecture by creating and managing pluggable databases with advanced SQL and administrative commands. | SQL, Oracle PDB, Database Administration |
-| [Claim Insurance & Shopping Systems](https://github.com/yourusername/Claim-Insurance-and-Shopping-Systems) | Object-Oriented systems simulating real-world processes, integrating Docker for environment consistency and deployment. | Java, OOP, MySQL, Docker |
-| [Darknet Analysis](https://github.com/yourusername/Darknet-analysis) | Data analytics project involving data cleaning, transformation, and exploratory analysis with Power BI visualizations. | Python, Pandas, Power BI, Big Data |
-| [IT Project Management Case Study](https://github.com/yourusername/Project-Management) | Demonstrates skills in planning, execution tracking, and reporting using PM tools and methodologies (Gantt charts, risk logs, task dependencies). | Agile, Jira, Trello, MS Project |
+| [SQL Commands in Oracle Database](https://github.com/Deborah-max46/SQL-Commands-in-Oracle-Database) | A collection of SQL commands demonstrating strong understanding of data retrieval, manipulation, and constraints within Oracle Database. | SQL, Oracle Database |
+| [Database Creation & Deletion (EOM)](https://github.com/Deborah-max46/Database-creation-Deletion-EOM) | Explores Oracle multitenant architecture by creating and managing pluggable databases with advanced SQL and administrative commands. | SQL, Oracle PDB, Database Administration |
+| [Claim Insurance & Shopping Systems](https://github.com/Deborah-max46/Uwase-Ketsia-Deborah) | Object-Oriented systems simulating real-world processes, integrating Docker for environment consistency and deployment. | Java, OOP, MySQL, Docker |
+| [Darknet Analysis](https://github.com/Deborah-max46/Darknet-analysis) | Data analytics project involving data cleaning, transformation, and exploratory analysis with Power BI visualizations. | Python, Pandas, Power BI, Big Data |
+| [IT Project Management Case Study](https://github.com/Deborah-max46/Rwanda-land-hub) | Demonstrates skills in planning, execution tracking, and reporting using PM tools and methodologies (RACI Chart, Project charter, task dependencies). | Agile |
 
 
 
